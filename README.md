@@ -7,9 +7,8 @@
 💞️ I’m looking to collaborate with successful businessmen and millionaires. I'm eager to work on projects that combine technical expertise with entrepreneurial vision and strategic thinking.
 
 📫 How to reach me:
-- Twitter: [SanethDassanayake](https://twitter.com/Saneth_2005)
+- Twitter: [Saneth2005](https://twitter.com/Saneth2005)
 - Facebook: [Saneth Dassanayake](https://web.facebook.com/profile.php?id=100092032483373)
-- Threads: [Saneth Dassanayake](https://www.threads.net/@saneth.dassanayake)
-- Instagram: [saneth.dassanayake](https://www.instagram.com/saneth.dassanayake/)
+- Instagram: [sanethdassanayake](https://www.instagram.com/sanethdassanayake/)
 
 Feel free to connect with me on any of these platforms. I'm always open to interesting discussions, collaborations, and networking opportunities.
