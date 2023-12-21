@@ -11,17 +11,17 @@
 
 - 📫 How to reach me **sanethdassanayake2005@gmail.com**
 
-- ⚡ Fun fact **I think I'm owner of the world**
+- ⚡ Fun fact **I think I'm the owner of World**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/saneth-dassanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saneth-dassanayake" height="30" width="40" /></a>
 <a href="https://twitter.com/saneth2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saneth2005" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/saneth-dassanayake-733967291/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saneth dassanayake" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saneth dassanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saneth dassanayake" height="30" width="40" /></a>
-<a href="https://fb.com/saneth dassanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saneth dassanayake" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22252006/saneth-dassanayake?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saneth dassanayake" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100092032483373" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saneth dassanayake" height="30" width="40" /></a>
 <a href="https://instagram.com/sanethdassanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanethdassanayake" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sanethdassanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanethdassanayake" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sanethdassanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanethdassanayake" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/7Y2uuFuTRn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/7Y2uuFuTRn" height="30" width="40" /></a>
 </p>
 
