@@ -1,16 +1,14 @@
-<br clear="both">
-
-<div align="center">
-  <img height="180" src="https://media0.giphy.com/media/mf4qECoTz8ZVK/giphy.gif?cid=ecf05e47so3ngzvqpggogsedl781jaxoa71uccx44otk6toq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
 <h1 align="center">Hi👋! I'm Saneth Dassanayake</h1>
 
 ###
 
-<h4 align="center">I'm Saneth Dassanayake, a software engineering student at BCU from Sri Lanka. I'm passionate about using new technologies to create innovative solutions. I'm always eager to learn, tackle challenges, and turn visions into reality using my coding skills and creativity.</h4>
+<br clear="both">
+
+<img align="right" height="180" src="https://media0.giphy.com/media/mf4qECoTz8ZVK/giphy.gif?cid=ecf05e47so3ngzvqpggogsedl781jaxoa71uccx44otk6toq&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<h3 align="right">I'm Saneth Dassanayake, a software engineering student at BCU from Sri Lanka. I'm passionate about using new technologies to create innovative solutions. I'm always eager to learn, tackle challenges, and turn visions into reality using my coding skills and creativity.</h3>
 
 ###
 
@@ -81,6 +79,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SanethDassanayake/SanethDassanayake/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ###
