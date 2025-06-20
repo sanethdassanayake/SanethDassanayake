@@ -1,11 +1,11 @@
 # Hey, I'm Saneth.  
 
-I build things—startups, systems, products—whatever it takes. Right now, I’m working on something big (more on that soon).  
+I build things, startups, systems, products, whatever it takes. Right now, I’m working on something big (more on that soon).  
 
-I’m a **Software Engineer in the making** (BCU undergrad), but honestly, I don’t just write code—I create things that actually matter.  
+I’m a **Software Engineer in the making** (BCU undergrad), but honestly, I don’t just write code—I create things that matter.  
 
 ## What I Work With  
-I’ve used a lot of tech, but here’s what I actually get things done with:  
+I’ve used a lot of tech, but here’s what I get things done with:  
 - **Frontend:** React, Next.js, Shadcn UI, Bootstrap  
 - **Backend:** Node.js, PHP, C#, Python  
 - **Databases:** MySQL, PostgreSQL (Neon)  
